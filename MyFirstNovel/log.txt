@@ -1,0 +1,17 @@
+commit 82241e302d1e3e23a3d6819f0dbbead7c61de90a
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Thu Apr 7 19:22:34 2022 -0400
+
+    starting work on chapter 1
+
+commit e25e676ec5cb8579202e53224882d61ac0d8c445
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Thu Apr 7 19:20:07 2022 -0400
+
+    begin work on chapter1
+
+commit 108d942c7c938e9c76785c1c56f6db2ef0f0f587
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Thu Apr 7 19:06:38 2022 -0400
+
+    start work on outline and main characters
