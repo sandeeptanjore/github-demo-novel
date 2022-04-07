@@ -1,3 +1,9 @@
+commit 5b118bd6be04bfb6b4d9e3284ffe6af2e52cb672
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Thu Apr 7 19:26:34 2022 -0400
+
+    partly finished chapter 1
+
 commit 82241e302d1e3e23a3d6819f0dbbead7c61de90a
 Author: Sandeep <sandeep.tanjore@yahoo.com>
 Date:   Thu Apr 7 19:22:34 2022 -0400
