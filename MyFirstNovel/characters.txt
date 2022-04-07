@@ -12,3 +12,23 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 Where can I get some?
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+THE PROJECT GUTENBERG AUSTRALIA LICENCE
+Most Project Gutenberg Australia eBooks are confirmed through our copyright research as being in the public domain in the Australia. For the rest, Project Gutenberg Australia has received permission to redistribute the eBooks freely, though some non-free uses might have restrictions. If an ebook is not in the public domain in Australia, details will clearly appear in the header at the beginning of the ebook.
+
+Project Gutenberg Australia eBooks are created from printed editions which are in the public domain in Australia, unless a copyright notice is included. We do NOT keep any eBooks in compliance with a particular paper edition.
+
+Copyright laws are changing all over the world. Be sure to check the copyright laws for your country before downloading or redistributing this file.
+
+This eBook is made available at no cost and with almost no limitations whatsoever. You may copy it, give it away or re-use it under the terms of this Project Gutenberg Australia Licence.
+The limitations (see below) are for people who choose to modify the eBooks, and for any commercial use of the Project Gutenberg trademark (which is registered in the US and internationally).
+
+It is permissable and encouraged for all Project Gutenberg Australia eBooks to be freely redistributed as-is, on an unlimited basis, by any person and for any purpose, subject to the limitations below. The only restriction is national copyright law. Because Project Gutenberg Australia can only perform copyright research using Australian laws, it is possible that some eBooks which are public domain in Australia are still under copyright protection in other countries. Persons outside of Australia should check their laws before redistributing Project Gutenberg Australia eBooks.
+
+LIMITATIONS
+There are two circumstances which substantially limit what is permitted with Project Gutenberg Australia eBooks:
+
+1. Modification: Only unmodified copies of these eBooks may be redistributed, on a non-commercial basis, without limitation. If you exploit these e-books commercially or make changes to them (other than alteration for different display devices), you are prohibited from including the header, the cover page and other proprietary content or otherwise associating your derivative work with Project Gutenberg Australia. In other words, in these cases you MUST remove the header,  the PGA cover page (if any) as well as any introductory materials that have been added to the  original text by the e-book creator, and you MAY NOT use the Project Gutenberg trademark.
+
+2. Copyrighted eBooks: When Project Gutenberg Australia is given permission to redistribute copyrighted materials, the copyright holder may stipulate, at the start of the ebook, additional licenses or restrictions. These terms must be honored.
+
