@@ -1,3 +1,9 @@
+commit 67c1efc92bd3f6820ffe13cb6e67ec2be8b6e9fb
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Thu Apr 7 19:30:37 2022 -0400
+
+    split chapter 1 into 2 pieces
+
 commit 5b118bd6be04bfb6b4d9e3284ffe6af2e52cb672
 Author: Sandeep <sandeep.tanjore@yahoo.com>
 Date:   Thu Apr 7 19:26:34 2022 -0400
