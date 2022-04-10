@@ -1,3 +1,27 @@
+commit c4a15146b4297f59ee98347b6d0e115dd3522431
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Sun Apr 10 17:28:45 2022 -0400
+
+    Add Wilsons to characters list
+
+commit 90634de06a639923c857a5423ac72221f0b9d015
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Sun Apr 10 17:02:55 2022 -0400
+
+    create mood board
+
+commit cfaaa1714e614fdbcaa294982b8a7e64a680d0f6
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Sun Apr 10 17:02:08 2022 -0400
+
+    rename Gatsby to Catsby
+
+commit b0be95f3132ea5944f23943c68b4630a52f2e21a
+Author: Sandeep <sandeep.tanjore@yahoo.com>
+Date:   Thu Apr 7 20:17:14 2022 -0400
+
+    This is a log file that tracks changes
+
 commit 67c1efc92bd3f6820ffe13cb6e67ec2be8b6e9fb
 Author: Sandeep <sandeep.tanjore@yahoo.com>
 Date:   Thu Apr 7 19:30:37 2022 -0400
